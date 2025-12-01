@@ -2,7 +2,7 @@
 **ADarko22/adarko22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👋 I'm Angelo — Software Engineer Passionate about Coding & Finance
+# 👋 I'm Angelo — SW Engineer Passionate about Coding & Finance
 
 I’m a **Senior Software Engineer & DevOps** with 7+ years of experience building secure, high-performance, and resilient systems across **private banking**, **developer tooling**, and **high-frequency trading**.
 
