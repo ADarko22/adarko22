@@ -4,13 +4,12 @@
 
 # 👋 I'm Angelo — SW Engineer Passionate about Coding & Finance
 
-I’m a **Senior Software Engineer & DevOps** with 7+ years of experience building secure, high-performance, and resilient systems across **private banking**, **developer tooling**, and **high-frequency trading**.
+I’m a **Software Engineer** with 8 years of experience across **private banking**, **developer tooling**, and **high-frequency trading**.
 
 Curiosity drives me: I love exploring the **JVM ecosystem**, experimenting with new language features, and diving into performance, benchmarking, and modern engineering practices.  
 
-When I’m not working, you’ll find me solving **LeetCode** challenges, participating in **Advent of Code**, or hacking on **developer tools** that make everyday engineering smoother. 
+When I’m not working, you’ll find me solving **LeetCode** challenges, participating in **Advent of Code**, or working on **developer tools**. 
 I also enjoy writing **Medium articles**, sharing insights and experiences of software engineering.
-
 
 ### 🤝 I’m Looking to Collaborate On
 
